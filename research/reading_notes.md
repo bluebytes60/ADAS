@@ -3,6 +3,10 @@
 > Tracking summaries and critical analysis of papers citing ADAS.
 > Convention: notes are stored alongside the PDF as `{filename}_notes.md`
 
+## Cross-Paper Analysis
+
+- [ADAS vs AFlow vs AgentSquare vs AgentSwift](comparison_notes.md) — search space, algorithm, evaluation, and shared limitations
+
 ## Status
 
 | # | Paper | Venue | Notes | Key Takeaway |
@@ -18,7 +22,7 @@
 | 9 | MAS-GPT | ICML 2025 | - | |
 | 10 | Archon | ICML 2025 | - | |
 | 11 | ComfyBench | CVPR 2025 | - | |
-| 12 | AgentSwift | AAAI 2026 | - | |
+| 12 | [AgentSwift](AAAI%202026/AgentSwift_2506.06017_notes.md) | AAAI 2026 | Done | Generalizes AFlow+AgentSquare; trained 7B value model; uncertainty-guided MCTS; still no gradient |
 | 13 | Adaptive Graph Pruning | ECAI 2025 | - | |
 | 14 | SagaLLM | VLDB 2025 | - | |
 | 15 | Watson | ASE 2025 | - | |

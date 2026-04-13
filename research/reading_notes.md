@@ -8,7 +8,7 @@
 | # | Paper | Venue | Notes | Key Takeaway |
 |---|-------|-------|-------|-------------|
 | 1 | [AFlow](ICLR%202025/AFlow_2410.10762_notes.md) | ICLR 2025 | Done | MCTS over Python code; no real gradient; trial-and-error with LLM optimizer |
-| 2 | AgentSquare | ICLR 2025 | - | |
+| 2 | [AgentSquare](ICLR%202025/AgentSquare_2410.06153_notes.md) | ICLR 2025 | Done | 4-module design space (Planning/Reasoning/ToolUse/Memory); search is basically random + LLM heuristics |
 | 3 | BALROG | ICLR 2025 | - | |
 | 4 | CycleResearcher | ICLR 2025 | - | |
 | 5 | TrainingFreeSubQuadratic | ICLR 2025 | - | |
